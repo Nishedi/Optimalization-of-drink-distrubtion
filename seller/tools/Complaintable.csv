@@ -1,0 +1,6 @@
+idofcomplaint;Client;Product;Company;status;RegistrationDate;ForwardDate;ResponseDate;PickupDate;CloseDate;description;
+3;Kate;Phone;Samsung;tosend;;;;;;XXXXX
+4;William;Phone;Nokia;tosend;;;;;;XXXXX
+5;Johny;Phone;Samsung;tosend;;;;;;XXXXX
+6;Johny;TV;Nokia;tosend;;;;;;XXXXX
+7;Johny;Computer;Samsung;atseller;;;;;;XXXXX
